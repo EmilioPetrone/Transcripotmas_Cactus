@@ -17,12 +17,12 @@ Réplica dos de *Ariocarpus retusus*
 
 [*Ariocarpus retusus*,R2](file:///media/emilio/KINGSTON/Datos_crudos/T-TERRAZAS-A2K-041215_R2_fastqc.html)
 
-Rélplica uno de* Cylindropuntia imbricata*
+Rélplica uno de *Cylindropuntia imbricata*
 [*Cylindropuntia imbricata*, R1](file:///media/emilio/KINGSTON/Datos_crudos/T-TERRAZAS-CoC-041215_R1_fastqc.html)
 
 [*Cylindropuntia imbricata*, R2](file:///media/emilio/KINGSTON/Datos_crudos/T-TERRAZAS-CoC-041215_R2_fastqc.html)
 
-Rélplica dos de* Cylindropuntia imbricata*
+Rélplica dos de *Cylindropuntia imbricata*
 [*Cylindropuntia imbricata*, R1](file:///media/emilio/KINGSTON/Datos_crudos/T-TERRAZAS-CoK-041215_R1_fastqc.html)
 
 [*Cylindropuntia imbricata*, R2](file:///media/emilio/KINGSTON/Datos_crudos/T-TERRAZAS-CoK-041215_R2_fastqc.html)
@@ -32,10 +32,9 @@ Rélplica dos de* Cylindropuntia imbricata*
 [*Pereskia lychnidiflora*, R2](file:///media/emilio/KINGSTON/Datos_crudos/T-TERRAZAS-P3C-041215_R2_fastqc.html)
 
 ####Las secuencias procesadas son las siguientes:
-[*Ferocactus pilosus*, Trimmed R1](file:///media/emilio/KINGSTON/Datos_procesados/890C.trimmed_R1_fastqc.html)
- [*Ferocactus pilosus*, Trimmed R2](file:///media/emilio/KINGSTON/Datos_procesados/890C.trimmed_R2_fastqc.html)
- [*Ferocactus pilosus*, No pareadas R1](file:///media/emilio/KINGSTON/Datos_procesados/890C.unpaired_R1_fastqc.html)
- [*Ferocactus pilosus*, No pareadas R2](file:///media/emilio/KINGSTON/Datos_procesados/890.unpaired_R2_fastqc.html)
+[*Ferocactus pilosus*, Trimmed R1](file:///media/emilio/KINGSTON/Datos_procesados/890C.trimmed_R1_fastqc.html) , [*Ferocactus pilosus*, Trimmed R2](file:///media/emilio/KINGSTON/Datos_procesados/890C.trimmed_R2_fastqc.html) , 
+[*Ferocactus pilosus*, No pareadas R1](file:///media/emilio/KINGSTON/Datos_procesados/890C.unpaired_R1_fastqc.html) , 
+[*Ferocactus pilosus*, No pareadas R2](file:///media/emilio/KINGSTON/Datos_procesados/890.unpaired_R2_fastqc.html)
 
 Réplica uno de *Ariocarpus retusus*
 [*Ariocarpus retusus*,Trimmed R1](file:///media/emilio/KINGSTON/Datos_procesados/A2C.trimmed_R1_fastqc.html)
