@@ -3,7 +3,7 @@ Para el análisis de secuencias se utilizó el prgrama **FASTQC** (version 0.11.
 En las siguientes ligas se pueden encontrar los reportes de dichos análisis.
 
 ####Las secuencias crudas son las siguientes:
-[*Ferocactus pilosus*, R1](file:///home/emilio/Desktop/Datos_crudos/T-TERRAZAS-890C-041215_R1_fastqc.html)
+[*Ferocactus pilosus*, R1](http://home/emilio/Desktop/Datos_crudos/T-TERRAZAS-890C-041215_R1_fastqc.html)
 
 [*Ferocactus pilosus*, R2](file:///media/emilio/KINGSTON/Datos_crudos/T-TERRAZAS-890C-041215_R2_fastqc.html)
 
