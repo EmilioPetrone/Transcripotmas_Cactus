@@ -1,4 +1,4 @@
-Para el análisis de secuencias se utilizó el prgrama FASTQC (version 0.11.3)
+Para el análisis de secuencias se utilizó el prgrama **FASTQC** (version 0.11.3)
 
 En las siguientes ligas se pueden encontrar los reportes de dichos análisis.
 
