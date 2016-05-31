@@ -4,10 +4,14 @@ En las siguientes ligas se pueden encontrar los reportes de dichos análisis.
 
 ####Las secuencias crudas son las siguientes:
 [*Ferocactus pilosus*, R1](file:///home/emilio/Desktop/Datos_crudos/T-TERRAZAS-890C-041215_R1_fastqc.html)
+
 [*Ferocactus pilosus*, R2](file:///media/emilio/KINGSTON/Datos_crudos/T-TERRAZAS-890C-041215_R2_fastqc.html)
+
 Réplica uno de *Ariocarpus retusus*
 [*Ariocarpus retusus*,R1](file:///media/emilio/KINGSTON/Datos_crudos/T-TERRAZAS-A2C-041215_R1_fastqc.html)
+
 [*Ariocarpus retusus*,R2](file:///media/emilio/KINGSTON/Datos_crudos/T-TERRAZAS-A2C-041215_R2_fastqc.html)
+
 Réplica dos de *Ariocarpus retusus*
 [*Ariocarpus retusus*,R1](file:///media/emilio/KINGSTON/Datos_crudos/T-TERRAZAS-A2K-041215_R1_fastqc.html)
 [*Ariocarpus retusus*,R2](file:///media/emilio/KINGSTON/Datos_crudos/T-TERRAZAS-A2K-041215_R2_fastqc.html)
